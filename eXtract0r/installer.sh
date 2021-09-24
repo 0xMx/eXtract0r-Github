@@ -1,7 +1,5 @@
 #!/bin/bash
 
-
-path=`pwd`
 fileName=$1
 sudo mkdir tools
 cd tools
